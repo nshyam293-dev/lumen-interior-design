@@ -1,6 +1,10 @@
 # 🏛️ Lumen — Interior Design Website Prototype
 
+[![Figma Prototype](https://img.shields.io/badge/🎨_Figma-View_Live_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/w8N6l4hDx3WcAWGd7t1po2/Interior_webpage?node-id=0-1&t=uIs6TQ5ij5xvetLD-1)
+
 **Lumen** is a sleek, modern website prototype designed for a high-end interior design firm[cite: 1]. It features a dark-mode luxury aesthetic, light-focused photography, and clean layouts to showcase architectural projects, design disciplines, and brand identity[cite: 1].
+
+> 🔗 **Interactive Prototype:** [Experience the Figma Prototype Here](https://www.figma.com/proto/w8N6l4hDx3WcAWGd7t1po2/Interior_webpage?node-id=0-1&t=uIs6TQ5ij5xvetLD-1)
 
 ---
 
@@ -13,20 +17,22 @@
   - *Minimal Office* (Copenhagen, Denmark — Corporate Interiors)[cite: 1]
 - **Services Section:** Categorized design offerings spanning Residential, Commercial, Hospitality, Interior Styling, and Spatial Planning & Concept design[cite: 1].
 - **About & Studio Details:** Brand statement and location details for the studio based in Amsterdam, Netherlands[cite: 1].
-- **Responsive Layout:** Designed for seamless viewing across desktops, tablets, and mobile devices.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Prototype Link
 
-- **Design System:** Dark Mode Aesthetic, High-Contrast Light-Filled Imagery, Minimalist Typography
+- **Figma Prototype:** [https://www.figma.com/proto/w8N6l4hDx3WcAWGd7t1po2/Interior_webpage...](https://www.figma.com/proto/w8N6l4hDx3WcAWGd7t1po2/Interior_webpage?node-id=0-1&t=uIs6TQ5ij5xvetLD-1)
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Design & Tech Stack
 
-To view or edit this project locally:
+- **Design Tool:** Figma
+- **Style:** Dark Mode Aesthetic, High-Contrast Lighting, Minimalist Typography
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/lumen-interior-design.git](https://github.com/your-username/lumen-interior-design.git)
+---
+
+## 📜 License
+
+This project is created for demonstration and portfolio purposes.
